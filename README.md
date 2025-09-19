@@ -27,8 +27,8 @@ Signal | RF Module PIN | Cable COLOR | Arduino pin
 ------ | ------------- | ----------- | -----------
 GND | 1 | Brown | GND
 VCC | 2 | Red | 3.3V
-CE | 3 | Orange | 9
-CSN | 4 | Yellow | 10
+CE | 3 | Orange | 17
+CSN | 4 | Yellow | 5
 SCK | 5 | Green | 13
 MOSI | 6 | Blue | 11
 MISO | 7 | Violet | 12
